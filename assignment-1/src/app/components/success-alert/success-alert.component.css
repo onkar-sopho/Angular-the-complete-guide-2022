@@ -1,0 +1,16 @@
+p {
+    font-size: 5rem;
+    color: darkolivegreen;
+    border: 10px;
+    border-color: aquamarine;
+    outline-color: aqua;
+    margin-top: 2rem;
+    background-color: lightgreen;
+}
+
+#success {
+    border: 10px;
+    border-color: aquamarine;
+    outline-color: aqua;
+    color: antiquewhite;
+}
